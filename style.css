@@ -30,13 +30,11 @@ body {
 
 .intro-container
 {   display: flex;
-    flex-direction: column; /* Change to column layout */
+    flex-direction: column; 
     max-width: 1200px;
     margin: 0 auto;
-}
-
-.intro-page {
-    text-align: center;
+    align-items: center; 
+    text-align: center; 
 }
 
 .intro-text {
