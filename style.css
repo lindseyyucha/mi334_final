@@ -28,6 +28,13 @@ body {
     font-family: unset;
 }
 
+.intro-container
+{   display: flex;
+    flex-direction: column; /* Change to column layout */
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
 .intro-page {
     text-align: center;
 }
