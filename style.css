@@ -92,9 +92,7 @@ body {
 }
 
 .skills-column {
-    flex: 0.5;
-    padding: 20px;
-    box-sizing: border-box;
+    flex: 1;
 }
 
 .skills-column h2 {
@@ -114,6 +112,13 @@ body {
 .project-container {
     display: flex;
     margin: 20px;
+}
+
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px; 
 }
 
 .video-container {
