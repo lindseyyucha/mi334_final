@@ -115,6 +115,11 @@ body {
     max-width: 50%
 }
 
+.pdf-link {
+    flex:1; 
+    margin-right: 20px; 
+}
+
 .image-container{
     max-width: 50%;
     margin-right: 20px;
