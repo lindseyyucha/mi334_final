@@ -172,5 +172,6 @@ body {
 
 .pdf-link a {
     font-size: 18px; 
-    padding: 20px; 
+    text-align: center; 
+    padding-left: 20px;
 }
