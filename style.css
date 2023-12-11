@@ -156,6 +156,7 @@ body {
 .section-header {
     font-size: 36px;
     margin-bottom: 20px;
+    text-align: center; 
 }
 
 .skills-container {
@@ -171,4 +172,5 @@ body {
 
 .pdf-link a {
     font-size: 18px; 
+    padding: 20px; 
 }
