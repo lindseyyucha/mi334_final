@@ -114,9 +114,10 @@ body {
     margin: 20px;
 }
 
-
+.image-container{
+    max-width: 50%;
+}
 .image-container img {
-    max-width: 30%;
     height: auto;
     border-radius: 10px; 
 }
